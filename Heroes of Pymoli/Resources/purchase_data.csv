@@ -23,7 +23,7 @@ Purchase ID,SN,Age,Gender,Item ID,Item Name,Price
 21,Phiarithdeu40,20,Male,168,"Sun Strike, Jaws of Twisted Visions",1.48
 22,Siarithria38,38,Other / Non-Disclosed,24,Warped Fetish,3.81
 23,Eyrian71,40,Male,151,Severance,3.4
-24,Siala43,30,Male,141,Persuasion,3.19
+24,Siala43,30,Male,132,Persuasion,3.19
 25,Lisirra87,29,Male,178,"Oathbreaker, Last Hope of the Breaking Storm",4.23
 26,Lirtossa84,11,Male,71,Demise,1.61
 27,Eusri44,7,Male,96,Blood-Forged Skeletal Spine,3.09
@@ -62,7 +62,7 @@ Purchase ID,SN,Age,Gender,Item ID,Item Name,Price
 60,Yadanu52,34,Male,44,Bonecarvin Battle Axe,2.38
 61,Jiskimya77,17,Male,178,"Oathbreaker, Last Hope of the Breaking Storm",4.23
 62,Yadaphos40,30,Male,178,"Oathbreaker, Last Hope of the Breaking Storm",4.23
-63,Alo38,20,Male,125,Whistling Mithril Warblade,1.0
+63,Alo38,20,Male,125,Whistling Mithril Warblade,1
 64,Phaena87,20,Male,56,Foul Titanium Battle Axe,2.92
 65,Chamirraya83,25,Male,34,Retribution Axe,2.22
 66,Chanastsda67,21,Female,6,Rusty Skull,3.7
@@ -97,8 +97,8 @@ Purchase ID,SN,Age,Gender,Item ID,Item Name,Price
 95,Ilassast39,18,Male,164,Exiled Doomblade,1.63
 96,Lisassala98,16,Male,56,Foul Titanium Battle Axe,2.92
 97,Aiduecal76,20,Male,134,Undead Crusader,4.5
-98,Chadossa89,23,Male,141,Persuasion,3.19
-99,Haisrisuir60,23,Male,101,Final Critic,4.19
+98,Chadossa89,23,Male,132,Persuasion,3.19
+99,Haisrisuir60,23,Male,92,Final Critic,4.19
 100,Pheodaisun84,30,Male,12,Dawne,1.02
 101,Heollyriap59,21,Male,174,Primitive Blade,3.47
 102,Maropast28,24,Male,109,"Downfall, Scalpel Of The Emperor",4.76
@@ -185,7 +185,7 @@ Purchase ID,SN,Age,Gender,Item ID,Item Name,Price
 183,Aenarap34,21,Male,15,Soul Infused Crystal,2.96
 184,Aisur51,28,Male,32,Orenmir,1.14
 185,Thrientossa55,20,Male,150,Deathraze,2.85
-186,Chadista79,30,Male,77,"Piety, Guardian of Riddles",4.0
+186,Chadista79,30,Male,77,"Piety, Guardian of Riddles",4
 187,Tyeurith29,8,Male,11,Brimstone,3.65
 188,Malunil62,18,Male,88,"Emberling, Defender of Delusions",3.75
 189,Hiasri33,23,Male,63,Stormfury Mace,4.99
@@ -250,7 +250,7 @@ Purchase ID,SN,Age,Gender,Item ID,Item Name,Price
 248,Isursuir31,44,Male,137,"Aetherius, Boon of the Blessed",3.39
 249,Sundirrala66,20,Male,16,Restored Bauble,3.55
 250,Saerallora71,23,Male,87,"Deluge, Edge of the West",4.43
-251,Iasur80,22,Male,23,Crucifer,1.99
+251,Iasur80,22,Male,1,Crucifer,1.99
 252,Tyaelo67,39,Male,92,Final Critic,4.88
 253,Aesty53,21,Male,28,"Flux, Destroyer of Due Diligence",1.06
 254,Quanunwen42,23,Female,94,Mourning Blade,3.49
@@ -260,7 +260,7 @@ Purchase ID,SN,Age,Gender,Item ID,Item Name,Price
 258,Assehoan67,26,Male,149,"Tranquility, Razor of Black Magic",1.75
 259,Haellysu29,20,Male,72,Winter's Bite,3.77
 260,Saida58,16,Male,70,Hope's End,1.03
-261,Tyeosri53,24,Male,141,Persuasion,3.19
+261,Tyeosri53,24,Male,132,Persuasion,3.19
 262,Chamadar79,15,Male,172,Blade of the Grave,3.14
 263,Aeral43,24,Male,78,"Glimmer, Ender of the Moon",4.4
 264,Saesrideu94,35,Male,119,"Stormbringer, Dark Blade of Ending Misery",4.32
@@ -319,7 +319,7 @@ Purchase ID,SN,Age,Gender,Item ID,Item Name,Price
 317,Tyidainu31,18,Female,3,Phantomlight,2.49
 318,Iskadarya95,20,Male,91,Celeste,4.17
 319,Rarallo90,33,Male,144,Blood Infused Guardian,1.94
-320,Lirtilsa72,24,Male,77,"Piety, Guardian of Riddles",4.0
+320,Lirtilsa72,24,Male,77,"Piety, Guardian of Riddles",4
 321,Undjaskla97,33,Male,118,"Ghost Reaver, Longsword of Magic",2.17
 322,Saedaiphos46,18,Male,37,"Shadow Strike, Glory of Ending Hope",3.16
 323,Tyisur83,23,Male,131,Fury,1.44
@@ -410,14 +410,14 @@ Purchase ID,SN,Age,Gender,Item ID,Item Name,Price
 408,Raesty92,12,Male,53,Vengeance Cleaver,2.05
 409,Lisotesta51,15,Female,144,Blood Infused Guardian,1.94
 410,Strithenu87,20,Male,99,"Expiration, Warscythe Of Lost Worlds",1.71
-411,Lisico81,10,Male,101,Final Critic,4.19
+411,Lisico81,10,Male,92,Final Critic,4.19
 412,Lisiriya82,32,Male,86,Stormfury Lantern,2.27
 413,Siana77,12,Male,93,Apocalyptic Battlescythe,1.97
 414,Marokian45,23,Male,108,"Extraction, Quickblade Of Trembling Hands",3.53
 415,Sausosia74,22,Male,120,Agatha,3.08
 416,Aestysu37,25,Male,13,Serenity,1.41
 417,Pheodaisun84,30,Male,98,"Deadline, Voice Of Subtlety",2.89
-418,Marim28,25,Female,125,Whistling Mithril Warblade,1.0
+418,Marim28,25,Female,125,Whistling Mithril Warblade,1
 419,Iaralrgue74,33,Male,171,Scalpel,1.79
 420,Assesi91,23,Male,129,"Fate, Vengeance of Eternal Justice",1.54
 421,Yadaphos40,30,Male,26,Unholy Wand,1.12
@@ -481,7 +481,7 @@ Purchase ID,SN,Age,Gender,Item ID,Item Name,Price
 479,Chanjaskan89,21,Male,60,Wolf,3.54
 480,Salilis27,40,Male,59,"Lightning, Etcher of the King",4.23
 481,Sondossa69,7,Male,179,"Wolf, Promise of the Moonwalker",4.48
-482,Sundjask71,32,Female,77,"Piety, Guardian of Riddles",4.0
+482,Sundjask71,32,Female,77,"Piety, Guardian of Riddles",4
 483,Saistyphos30,35,Male,108,"Extraction, Quickblade Of Trembling Hands",3.53
 484,Chanosian48,35,Other / Non-Disclosed,39,"Betrayal, Whisper of Grieving Widows",3.94
 485,Errian63,26,Female,94,Mourning Blade,3.49
@@ -524,7 +524,7 @@ Purchase ID,SN,Age,Gender,Item ID,Item Name,Price
 522,Meosridil82,18,Male,82,Nirvana,4.9
 523,Aillyriadru65,24,Male,21,Souleater,1.1
 524,Sally64,25,Female,46,Hopeless Ebon Dualblade,1.33
-525,Lirtimst73,24,Male,126,Exiled Mithril Longsword,2.0
+525,Lirtimst73,24,Male,126,Exiled Mithril Longsword,2
 526,Ilosia37,23,Male,133,Faith's Scimitar,4.09
 527,Lisim51,24,Male,102,Avenger,3.44
 528,Isurria36,22,Female,19,"Pursuit, Cudgel of Necromancy",1.02
@@ -535,9 +535,9 @@ Purchase ID,SN,Age,Gender,Item ID,Item Name,Price
 533,Hada39,19,Male,48,"Rage, Legacy of the Lone Victor",2.48
 534,Iana95,10,Male,146,Warped Iron Scimitar,3.1
 535,Siralsudeu54,20,Male,155,War-Forged Gold Deflector,1.01
-536,Siallylis44,20,Male,101,Final Critic,4.19
+536,Siallylis44,20,Male,92,Final Critic,4.19
 537,Sondassan80,25,Male,112,Worldbreaker,2.6
-538,Chanadar44,25,Male,141,Persuasion,3.19
+538,Chanadar44,25,Male,132,Persuasion,3.19
 539,Eosurdru76,11,Male,117,"Heartstriker, Legacy of the Light",1.79
 540,Shidai42,29,Male,7,"Thorn, Satchel of Dark Souls",1.33
 541,Aesri53,31,Male,161,Devine,1.76
@@ -586,10 +586,10 @@ Purchase ID,SN,Age,Gender,Item ID,Item Name,Price
 584,Aelin32,20,Male,115,Spectral Diamond Doomblade,2.04
 585,Chanirrala39,22,Male,85,Malificent Bag,1.75
 586,Chanirra79,23,Female,155,War-Forged Gold Deflector,1.01
-587,Assirra56,22,Male,141,Persuasion,3.19
+587,Assirra56,22,Male,132,Persuasion,3.19
 588,Lassadarsda57,25,Female,15,Soul Infused Crystal,2.96
 589,Seolollo93,30,Male,106,Crying Steel Sickle,3.41
-590,Iathem87,20,Male,141,Persuasion,3.19
+590,Iathem87,20,Male,132,Persuasion,3.19
 591,Iasurriacal29,20,Male,113,Solitude's Reaver,4.07
 592,Lisast98,22,Male,170,Shadowsteel,3.97
 593,Lassimla92,25,Male,128,"Blazeguard, Reach of Eternity",4.91
@@ -602,7 +602,7 @@ Purchase ID,SN,Age,Gender,Item ID,Item Name,Price
 600,Iskosian40,16,Male,166,Thirsty Iron Reaver,3.07
 601,Ilastilis78,11,Male,93,Apocalyptic Battlescythe,1.97
 602,Seosrim97,20,Male,65,Conqueror Adamantite Mace,4.24
-603,Lisosia93,25,Male,141,Persuasion,3.19
+603,Lisosia93,25,Male,132,Persuasion,3.19
 604,Lisim51,24,Male,34,Retribution Axe,2.22
 605,Farrian71,18,Male,159,"Oathbreaker, Spellblade of Trials",3.08
 606,Nitherian58,28,Male,123,Twilight's Carver,2.28
@@ -673,7 +673,7 @@ Purchase ID,SN,Age,Gender,Item ID,Item Name,Price
 671,Caesrinusuir82,30,Male,152,Darkheart,1.74
 672,Ililsan66,9,Male,122,Unending Tyranny,2.85
 673,Idacal95,30,Male,130,Alpha,2.07
-674,Aeral68,43,Male,77,"Piety, Guardian of Riddles",4.0
+674,Aeral68,43,Male,77,"Piety, Guardian of Riddles",4
 675,Lirtastsda29,16,Male,144,Blood Infused Guardian,1.94
 676,Idastidru52,24,Male,111,Misery's End,4.89
 677,Tyarithn67,27,Male,32,Orenmir,1.14
@@ -750,7 +750,7 @@ Purchase ID,SN,Age,Gender,Item ID,Item Name,Price
 748,Rastynusuir31,20,Male,55,Vindictive Glass Edge,2.27
 749,Chanossanya44,20,Male,53,Vengeance Cleaver,2.05
 750,Iljask75,22,Male,167,"Malice, Legacy of the Queen",3.61
-751,Lisjaskan36,11,Male,180,Stormcaller,3.36
+751,Lisjaskan36,11,Male,30,Stormcaller,3.36
 752,Mindjasksya61,17,Male,112,Worldbreaker,2.6
 753,Frichirranya75,36,Male,178,"Oathbreaker, Last Hope of the Breaking Storm",4.23
 754,Pheosurllorin41,23,Female,79,"Alpha, Oath of Zeal",4.05
@@ -773,9 +773,9 @@ Purchase ID,SN,Age,Gender,Item ID,Item Name,Price
 771,Iskossasda43,16,Male,25,Hero Cane,4.35
 772,Asur53,26,Male,136,Ghastly Adamantite Protector,3.58
 773,Hala31,21,Male,19,"Pursuit, Cudgel of Necromancy",1.02
-774,Jiskjask80,11,Male,101,Final Critic,4.19
+774,Jiskjask80,11,Male,92,Final Critic,4.19
 775,Aethedru70,21,Female,60,Wolf,3.54
 776,Iral74,21,Male,164,Exiled Doomblade,1.63
 777,Yathecal72,20,Male,67,"Celeste, Incarnation of the Corrupted",3.46
-778,Sisur91,7,Male,101,Final Critic,4.19
+778,Sisur91,7,Male,92,Final Critic,4.19
 779,Ennrian78,24,Male,50,Dawn,4.6
